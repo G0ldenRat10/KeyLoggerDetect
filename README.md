@@ -34,7 +34,7 @@ Install the required libraries (e.g., psutil, beautifulsoup4, requests):
 
 Run the application:
 
-     python3 main.py
+     python main.py
 
 
 Upon running the application, you will be greeted with an ASCII art logo and a menu. Follow the prompts to perform various scans and analyses.
