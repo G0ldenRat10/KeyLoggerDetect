@@ -18,7 +18,7 @@ Project Status
 This project is still in beta. As my first project, I am eager to receive reviews and constructive feedback. Your insights can help me improve this tool and my programming skills. I appreciate any suggestions on what features or improvements you would like to see!
 
 
-INSTALATION 
+INSTALLATION 
 
 Clone the repository
      
