@@ -1,10 +1,10 @@
-KeyLoggerDetect
+KeyLoggerDetect+
 
 Status: Beta Version 1.1
 
 Author: ZakaLino
 
-KeyLoggerDetect+ is a Python-based application designed to detect keyloggers and other suspicious activities on a user's system. It utilizes various methods, including process name scanning and hash comparisons, to identify potentially malicious processes. The application also monitors network activity for known malicious IP addresses and provides system usage analysis.
+KeyLoggerDetect+ is a Python-based application designed to detect keyloggers and other suspicious activities on a WINDOWS user's system. It utilizes various methods, including process name scanning and hash comparisons, to identify potentially malicious processes. The application also monitors network activity for known malicious IP addresses and provides system usage analysis.
 
 Features:
 
@@ -34,14 +34,14 @@ Install the required libraries (e.g., psutil, beautifulsoup4, requests):
 
 Run the application:
 
-     python main.py
+     python3 main.py
 
 
 Upon running the application, you will be greeted with an ASCII art logo and a menu. Follow the prompts to perform various scans and analyses.
 
 _______________________________________________________________________________________________________________________________________________________
 
-Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request. This is my first project as stated.
 
 License
 
