@@ -14,7 +14,7 @@ def display_ascii_art():
 /_/|_|\__/\_, /____/\___/\_, /\_, /\__/_/ /____/\__/\__/\__/\__/\__/   /_/   
          /___/          /___//___/                                           
 
-                    Developed by: ZakaLino                                      
+                    Developed by: G0ldenRat10                                   
     """
     print(art)
     print("\nBeta Version 1.1")
